@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumTaskBoardProject", "ScrumTaskBoardProject\ScrumTaskBoardProject.csproj", "{92072C8A-0B86-420E-B0D7-88A5A977CDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{82FEACD2-A7A5-48F8-ADA6-8AF5551DABE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92072C8A-0B86-420E-B0D7-88A5A977CDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92072C8A-0B86-420E-B0D7-88A5A977CDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92072C8A-0B86-420E-B0D7-88A5A977CDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92072C8A-0B86-420E-B0D7-88A5A977CDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FEACD2-A7A5-48F8-ADA6-8AF5551DABE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FEACD2-A7A5-48F8-ADA6-8AF5551DABE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FEACD2-A7A5-48F8-ADA6-8AF5551DABE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FEACD2-A7A5-48F8-ADA6-8AF5551DABE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE7C75B-8D02-460A-9E4A-5551F983EEBB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.exe.config
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.exe
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.pdb
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\MetroFramework.dll
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csprojAssemblyReference.cache
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Form1.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Properties.Resources.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.GenerateResource.cache
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.CoreCompileInputs.cache
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.CopyComplete
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.exe
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.pdb
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Arayuz.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.UyeOl.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.TeknikKart.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.IsleriGoruntule.resources
+C:\Users\mrt19\Documents\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.TaskBoard.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.exe.config
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.exe
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\ScrumTaskBoardProject.pdb
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\MetroFramework.dll
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Arayuz.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Form1.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.IsleriGoruntule.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.Properties.Resources.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.TaskBoard.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.TeknikKart.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.UyeOl.resources
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.GenerateResource.cache
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.csproj.CopyComplete
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.exe
+C:\Users\Omer Furkan\Desktop\ScrumTaskBoardProject\ScrumTaskBoardProject\ScrumTaskBoardProject\obj\Debug\ScrumTaskBoardProject.pdb
