@@ -1,3 +1,3 @@
 # ScrumTaskBoardProject
-Hazırlayanlar: Mert Oğuz DALAK 182803037
-               Ömer Furkan BİLGE 182803052
+This project is XP based scrum task board program. Written with C# language and MSSQL.
+Written by Mert Oğuz DALAK and Ömer Furkan BİLGE.
